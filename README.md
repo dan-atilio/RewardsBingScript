@@ -24,8 +24,8 @@ windows | bat |  Batch que utiliza o Microsoft Edge
 
 ## Como usar
 
-1. Acesse a pasta source na raiz desse projeto do GitHub
-2. Baixe a versão para seu Sistema Operacional
+1. Acesse a pasta source na raiz desse projeto do GitHub - https://github.com/dan-atilio/RewardsBingScript/tree/main/source
+2. Baixe a versão para seu Sistema Operacional (caso não consiga baixar, basta copiar o conteúdo do script e colocar em algum bloco de notas, tomando a atenção quando for salvar, para Windows a extensão tem que ser **.bat** e para sistemas Unix-Like tem qeu ser **.sh**)
 3. No navegador padrão do seu S.O., faça login com sua conta do HotMail / Outlook / Microsoft (se você utiliza o Windows, leia a Observação abaixo)
 4. Certifique-se ao acessar o Bing, que sua conta está logada
 5. Execute o script com duplo clique ou se seu S.O. não tiver suporte a duplo clique em script, execute via Terminal, por exemplo:
