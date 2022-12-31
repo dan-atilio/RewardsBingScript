@@ -54,9 +54,9 @@ start microsoft-edge:"https://www.bing.com/search?q=pubg"
 timeout 2
 start microsoft-edge:"https://www.bing.com/search?q=dreamcast"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=street fighter"
+start microsoft-edge:"https://www.bing.com/search?q=street_fighter"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=mortal kombat"
+start microsoft-edge:"https://www.bing.com/search?q=mortal_kombat"
 timeout 2
 start microsoft-edge:"https://www.bing.com/search?q=parodius"
 timeout 2
@@ -72,37 +72,37 @@ start microsoft-edge:"https://www.bing.com/search?q=fable"
 timeout 2
 start microsoft-edge:"https://www.bing.com/search?q=fifa"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=maui mallard"
+start microsoft-edge:"https://www.bing.com/search?q=maui_mallard"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=bonanza bros"
+start microsoft-edge:"https://www.bing.com/search?q=bonanza_bros"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=f zero"
+start microsoft-edge:"https://www.bing.com/search?q=f_zero"
 timeout 2
 start microsoft-edge:"https://www.bing.com/search?q=turrican"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=metal slug"
+start microsoft-edge:"https://www.bing.com/search?q=metal_slug"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=marvel vs capcom"
+start microsoft-edge:"https://www.bing.com/search?q=marvel_vs_capcom"
 timeout 2
 pause
 
-start microsoft-edge:"https://www.bing.com/search?q=fatal fury"
+start microsoft-edge:"https://www.bing.com/search?q=fatal_fury"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=the king of fighters"
+start microsoft-edge:"https://www.bing.com/search?q=the_king_of_fighters"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=samurai shodown"
+start microsoft-edge:"https://www.bing.com/search?q=samurai_shodown"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=tony hawk pro skater"
+start microsoft-edge:"https://www.bing.com/search?q=tony_hawk_pro_skater"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=spider man"
+start microsoft-edge:"https://www.bing.com/search?q=spider_man"
 timeout 2
 start microsoft-edge:"https://www.bing.com/search?q=insomniac"
 timeout 2
 start microsoft-edge:"https://www.bing.com/search?q=recore"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=killer instinct"
+start microsoft-edge:"https://www.bing.com/search?q=killer_instinct"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=banjo kazooie"
+start microsoft-edge:"https://www.bing.com/search?q=banjo_kazooie"
 timeout 2
-start microsoft-edge:"https://www.bing.com/search?q=conker bad fur day"
+start microsoft-edge:"https://www.bing.com/search?q=conker_bad_fur_day"
 timeout 2
